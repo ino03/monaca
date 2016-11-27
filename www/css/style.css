@@ -1,0 +1,26 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+img {
+   width: 70%; 
+}
+
+img.hako {
+    margin-top: 5%;
+    margin-left : 0;
+    margin-right : 0;
+}
+
+input.button1 {
+    /* 文字サイズを指定 */
+    font-size: 18px;
+    /* 背景色を濃い青色に指定 */
+    background-color: #ff0000;
+    /* 文字色を白色に指定 */
+    color: #ffffff;
+}
